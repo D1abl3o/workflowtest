@@ -7,6 +7,8 @@ public class HelloBMWorld {
 			System.out.println("Tralalala");
 		}
 		
+		FeatureOneClass a = new FeatureOneClass("Test");
+		a.output();
 		
 	}
 	private String method(){
