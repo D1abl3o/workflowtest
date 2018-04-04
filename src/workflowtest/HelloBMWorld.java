@@ -21,5 +21,8 @@ public class HelloBMWorld {
 	static void featureMethod(){
 		System.out.println("New Feature Method1");
 	}
-	
+
+	static void featureMetod2(){
+		System.out.println("Seconde feature Method");
+	}
 }
