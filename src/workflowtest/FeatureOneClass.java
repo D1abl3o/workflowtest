@@ -7,6 +7,6 @@ public class FeatureOneClass {
 	}
 	
 	void output(){
-		System.out.println("FeatureOneClass");
+		System.out.println("FeatureOneClass: "+input);
 	}
 }
