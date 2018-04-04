@@ -17,15 +17,5 @@ public class HelloBMWorld {
 		
 	}
 	
-	private static void test(){
-		System.out.println("test");
-	}
-	
-	static void featureMethod(){
-		System.out.println("New Feature Method1");
-	}
 
-	static void featureMetod2(){
-		System.out.println("Seconde feature Method");
-	}
 }
