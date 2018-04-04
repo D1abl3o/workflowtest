@@ -8,4 +8,8 @@ public class HelloBMWorld {
 				System.out.println("Tralalala");
 		}
 	}
+	
+	private String method(){
+		return "Hello";
+	}
 }
