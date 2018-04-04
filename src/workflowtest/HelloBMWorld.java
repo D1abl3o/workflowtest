@@ -10,7 +10,8 @@ public class HelloBMWorld {
 		
 	}
 	private String method(){
-		return "Hello";
+		return "Hello"+" World";
+		
 	}
 	
 	private static void test(){
