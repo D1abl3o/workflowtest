@@ -6,5 +6,11 @@ public class HelloBMWorld {
 		for(int i = 0; i < 3; i++){
 			System.out.println("Tralalala");
 		}
+		
+		
+	}
+	
+	private static void test(){
+		System.out.println("test");
 	}
 }
