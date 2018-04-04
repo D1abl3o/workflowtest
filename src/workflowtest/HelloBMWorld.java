@@ -7,7 +7,8 @@ public class HelloBMWorld {
 			System.out.println("Tralalala");
 		}
 		
-		
+		FeatureTwoClass b = new FeatureTwoClass("2tests");
+		b.output();
 	}
 	private String method(){
 		return "Hello"+" World";
