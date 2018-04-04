@@ -9,6 +9,9 @@ public class HelloBMWorld {
 		
 		
 	}
+	private String method(){
+		return "Hello";
+	}
 	
 	private static void test(){
 		System.out.println("test");
